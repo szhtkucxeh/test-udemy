@@ -1,0 +1,53 @@
+.aaaa{
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    height: 9.4vw;
+    background-color: #8000FF
+}
+.bbbb{
+    width: 100vw;
+    height: 38vw;
+    background-color: rgb(193, 218, 195)
+}
+h1{
+    /* font: size 30px; */
+    padding:3vw;
+    /* font: size 30px; */
+    /* height: 500vw; */
+    color:rgb(250, 249, 249)
+
+}
+h3{
+
+    /* font: size 30px; */
+    padding:3vw;
+    /* font: size 30px; */
+    /* height: 500vw; */
+    color:rgb(250, 249, 249)
+
+}
+h2{
+
+    /* font: size 30px; */
+    padding:2vw;
+    /* font: size 30px; */
+    /* height: 500vw; */
+    color:rgb(0, 0, 0)
+
+}
+.spinner-border{
+    /* "width":"100%", */
+    transition:5s
+}
+img{
+    height:77px;
+    width:120px;
+    /* display: flex;
+    justify-content: space-between; */
+}
+.ggg{
+    display: flex;
+    justify-content:flex;
+
+}
